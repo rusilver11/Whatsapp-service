@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js",
+    "start2": "node App2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.14.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-chapi": "^1.1.1",
+    "whatsapp-web.js": "^1.15.3"
+  }
+}
